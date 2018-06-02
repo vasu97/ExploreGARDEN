@@ -90,7 +90,7 @@
         <Button
             android:id="@+id/email_log_in_button"
             style="?android:textAppearanceSmall"
-            android:layout_width="100dp"
+            android:layout_width="105dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="16dp"
@@ -98,6 +98,14 @@
             android:text="@string/action_log_in"
             android:textColor="@android:color/black"
             android:textStyle="bold" />
+
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/signin_google"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_marginRight="130dp"
+            android:layout_gravity="center"/>
 
         <TextView
             android:id="@+id/createAccount_forgetPass"
@@ -107,6 +115,8 @@
             android:text="@string/create_account_forget_pass"
             android:gravity="center"
             android:paddingTop="20dp"/>
+
+
 
     </LinearLayout>
 

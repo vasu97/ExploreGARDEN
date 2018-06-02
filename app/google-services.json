@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "270164345720",
+    "firebase_url": "https://explore-garden.firebaseio.com",
+    "project_id": "explore-garden",
+    "storage_bucket": "explore-garden.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270164345720:android:7b486728d0b35996",
+        "android_client_info": {
+          "package_name": "vasu97.exploregarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270164345720-gegm4pl6m3kokcgicoc4usq514bqckqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vasu97.exploregarden",
+            "certificate_hash": "c8e6cc3afa33455327614fb2ae56915dca94a62d"
+          }
+        },
+        {
+          "client_id": "270164345720-luhb81m68bmvqqlf9ll8fvi4au8psnks.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "270164345720-luhb81m68bmvqqlf9ll8fvi4au8psnks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa2cAYMXfOnYgQsZHzfe2S4qa4wttMTEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270164345720-luhb81m68bmvqqlf9ll8fvi4au8psnks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
