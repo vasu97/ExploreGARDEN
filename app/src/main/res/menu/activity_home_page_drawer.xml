@@ -5,33 +5,44 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="Import" />
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="Gallery" />
+            android:id="@+id/find_location"
+            android:icon="@drawable/ic_location_on_black_24dp"
+            android:title="Find Location" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="Slideshow" />
+            android:id="@+id/tool_shop"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title="Tool shop" />
         <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="Tools" />
+            android:id="@+id/ngo"
+            android:icon="@drawable/ic_group_add_black_24dp"
+            android:title="NGO" />
+        <item
+            android:id="@+id/event"
+            android:icon="@drawable/ic_event_note_black_24dp"
+            android:title="Events" />
     </group>
 
     <item android:title="Communicate">
         <menu>
             <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="Share" />
+                android:id="@+id/settings"
+                android:title="Settings" />
             <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Send" />
+                android:id="@+id/faq"
+                android:title="F.A.Q." />
+            <item
+            android:id="@+id/help"
+            android:title="Help" />
+            <item
+                android:id="@+id/send_feedback"
+                android:title="Send feedback" />
+            <item
+                android:id="@+id/about"
+                android:title="About" />
         </menu>
     </item>
 
